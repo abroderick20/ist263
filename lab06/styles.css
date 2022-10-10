@@ -1,4 +1,25 @@
 p, h1 {
+    color:palegoldenrod; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em; /* 2em means 200% */
+    font-weight: bolder;
+}
+p a {
+    color: orange;
+}
+#special {
+    color:blueviolet
+}
+.evenrow{
+    color:pink
+}
+
+
+
+
+
+/*
+p, h1 {
     color:purple; 
     font-family: Arial, Helvetica, sans-serif;
     font-size: 2em; 
@@ -15,4 +36,4 @@ p, body{
     font-size: 1em}
 p, ul, td, th {color: navy;}
 .special{color: purple}
-.evenrow{color: grey}
+.evenrow{color: grey} */
