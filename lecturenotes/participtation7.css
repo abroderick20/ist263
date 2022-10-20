@@ -1,0 +1,16 @@
+body {
+    background-color: #000000;
+    background-image: url("../images/otto.png");
+    background-repeat: repeat-x and repeat-x;
+}
+
+p {
+    color: #000000;
+    background-color: #fff4d6
+}
+
+
+.paragrpah{    
+    border: 2px solid #f00;
+    padding: 10px;
+    margin:20px;}
