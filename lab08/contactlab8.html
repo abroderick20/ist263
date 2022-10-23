@@ -6,45 +6,59 @@
             .p1 {display: flex;}
             .p1 article {padding: 20px;}
             .a1 {float: left; margin: 10px;}
-            .a1 {flex: 2; order: 3; background-color: #aabbcc; border-radius: 1em;} 
+            .a1, .a2 {flex: 2; order: 3; background-color: #aabbcc; border-radius: 1em;} 
+            .a2 {float: right; margin: 10px;}
         </style>
     </head>
     <body>
+    <div>
+        
         <div class="p1">
         <article class="a1">
             <title>Contact</title>
             <h1>Adresss</h1>
             <p>2422 Parker Place, Honolulu, HI</p>
+        </article>
+        </div>
+        <div class ="p2">
+            <article class="a2">
             <p>My LinkedIn Profile</p>
             <p><a href="https://www.linkedin.com/">LinkedIn Page</a></p>
             <p><a href="mailto:albroder@syr.edu">albroder@syr.edu</a></p>
-        </article>
-       
+            </article>
+        </div>
+    </div>
+
+    <div>
+        <div>
+            <form action="https://formspree.io/f/mjvzwknj" method="POST">
+                <label for="fullname">Name:</label>
+                <input type="text" id="fullname" name="fullname"><br><br>
+                <label for="specialinstructions">Message and Contant Info</label>
+                <textarea id="specialinstructions" name="specialinstructions"></textarea><br>
+                <label for="delivery">Email</label>
+                <input type="radio" id="delivery" name="deliverypickup" value="delivery">
+                <label for="pickup">Call</label>
+                <input type="radio" id="pickup" name="deliverypickup" value="pickup" checked><br>
+                <label for="voicemail">Do you want me to leave a voicemail?</label>
+                <input type="checkbox" id="voicemail" name="voicemail" value="yes"><br>
+        
+                <input type="submit" value="Submit">
+    
+            </form>
+        </div>
+        <div>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3717.049660271295!2d-157.84442678496697!3d21.309053983525953!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c006dc376f2256d%3A0x91e06b267acf9f7f!2s1010%20Wilder%20Ave%2C%20Honolulu%2C%20HI%2096822!5e0!3m2!1sen!2sus!4v1663204094908!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+    </div>
       
 
         <!-- <img src="../images/LI-Logo.png" alt="LinkedIn Logo"> -->
         
-        <br>
+       
+                 
         
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3717.049660271295!2d-157.84442678496697!3d21.309053983525953!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c006dc376f2256d%3A0x91e06b267acf9f7f!2s1010%20Wilder%20Ave%2C%20Honolulu%2C%20HI%2096822!5e0!3m2!1sen!2sus!4v1663204094908!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>        
-        
-        <h1>Contact Me!</h1>
-        <form action="https://formspree.io/f/mjvzwknj" method="POST">
-            <label for="fullname">Name:</label>
-            <input type="text" id="fullname" name="fullname"><br><br>
-            <label for="specialinstructions">Message and Contant Info</label>
-            <textarea id="specialinstructions" name="specialinstructions"></textarea><br>
-            <label for="delivery">Email</label>
-            <input type="radio" id="delivery" name="deliverypickup" value="delivery">
-            <label for="pickup">Call</label>
-            <input type="radio" id="pickup" name="deliverypickup" value="pickup" checked><br>
-            <label for="voicemail">Do you want me to leave a voicemail?</label>
-            <input type="checkbox" id="voicemail" name="voicemail" value="yes"><br>
-            
-            <input type="submit" value="Submit">
-
-        </form>
-        </div>
+       
     </body>
 </html>
 
