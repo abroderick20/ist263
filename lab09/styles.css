@@ -11,3 +11,8 @@ p, h1 {
 .image {
     width: 20%;
 }
+nav {
+    background-color: #aabbcc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
