@@ -11,7 +11,7 @@ p, h1 {
 .image {
     
     display: flex;
-    width: 20px;
+    width: 30px;
     background-color: #dddddd;
     border-radius: 1em;
     padding: 20px 20px 20px 20px;
