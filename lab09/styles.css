@@ -22,7 +22,7 @@ p, h1 {
   align-items: flex-start;
   flex-direction: row;
   justify-content: flex-start;
-  border: 3px dashed black;
+  border: 3px solid black;
 
 
 }
