@@ -18,6 +18,13 @@ p, h1 {
     margin-bottom: 20px;
     margin-left: 20px;
     margin-right: 20px;
+
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: flex-start;
+  border: 3px dashed black;
+
+
 }
 nav {
     background-color: #aabbcc;
