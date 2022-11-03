@@ -15,7 +15,7 @@ p, h1 {
 .image1 {
     
     
-    width: 30px;
+    width: 40px;
     padding: 20px;
  
 
@@ -24,7 +24,7 @@ p, h1 {
 .image2 {
     
     
-    width: 30px;
+    width: 40px;
     padding: 20px;
 
 }
@@ -32,28 +32,34 @@ p, h1 {
 .image3 {
     
     
-    width: 30px;
+    width: 40px;
     padding: 20px;
 }
 
 .image4 {
     
    
-    width: 30px;
+    width: 40px;
     padding: 20px;
 }
 
-.image5 {
+.image5 {   
     
-    
-    width: 30px;
+    width: 40px;
     padding: 20px;
-    display: inline-block;
+
  
 }
 
 
-
+.box2 {
+    float: right;
+    margin-bottom: 50px;
+    background-color: #c1c8ef;
+    border-radius: 1em;
+    padding: 14px 20px 14px 20px;
+    margin-left: 20px;
+}
 
 
 
