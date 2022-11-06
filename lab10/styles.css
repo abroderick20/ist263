@@ -61,6 +61,10 @@ nav {
     display:block;
 }
 
+nav a {color: #F2F2F2}
+nav a:hover {background-color: #771f}
+
+
 @media only screen and (max-width: 600px) {
     body {background-color: lightpink;}
     nav {width:100%;
