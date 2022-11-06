@@ -53,7 +53,7 @@ body {font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-ser
 }
 
 
-
+.clear {clear: both;}
 nav {
     background-color: #aabbcc;
     padding: 10px;
@@ -73,7 +73,7 @@ nav a:hover {background-color: #771f}
     
 }
 @media only screen and (min-width: 600px) {
-    body {background-color: lightsteelblue;}
+    body {background-color: yellow;}
     nav span {
         display: none;
     }
