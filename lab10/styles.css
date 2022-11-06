@@ -1,13 +1,7 @@
 body {font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif}
 
 .evenrow {background-color:lightgreen}
-h1 {font-size: 3em}
-h2 {font-size: 1.5em}
-p, h1 {
-    text-align: center;
-    color:lightseagreen;
-    
-}
+
 .parent {
     text-align: center;
     display: flex;
