@@ -13,13 +13,32 @@
         .img1 {float: middle; margin-right:10 px;}
         .clear {clear: both}
         .footer {float: bottom}
+
+        .skip {
+            background-color: #ffa500;
+            padding: 2px;
+            border: 1px solid black;
+            position:absolute;
+            top:30px;
+            left: -999px
+        }
+        .skip.focus {
+            left:10px;
+        }
    
     </style>
 
     
 </head>
 <body>
-    <header><img class = img1 src="../images/htmlimage.png"></header>
+    <a href="#content" class="skip" tabindex="1">Skip to Content</a><br>
+    <nav>
+        <a href="index.html" alt="Home link">Home</a> <span>|</span>
+        <a href="contact.html" alt="Contact link">Contact</a> <span>|</span>
+        <a href="skills.html" alt="Skills link">Skills</a>
+    </nav>
+
+    <header><img class = img1 src="../images/htmlimage.png" alt="girl against syracuse university backdrop"></header>
     <br>
     <main>
 

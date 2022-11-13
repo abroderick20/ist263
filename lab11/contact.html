@@ -17,18 +17,29 @@
             .a3 {display: flex; margin: 20px;}
             .a4 {display: flex; margin: 20px;}
             
+            .skip {
+            background-color: #ffa500;
+            padding: 2px;
+            border: 1px solid black;
+            position:absolute;
+            top:30px;
+            left: -999px
+        }
+        .skip.focus {
+            left:10px;
+        }
 
         </style>
     </head>
     <body>
     
         <nav>
-            <a href="index.html">Home</a> <span>|</span>
-            <a href="contact.html">Contact</a> <span>|</span>
-            <a href="skills.html">Skills</a>
+            <a href="index.html" alt="Home link">Home</a> <span>|</span>
+            <a href="contact.html" alt="Contact link">Contact</a> <span>|</span>
+            <a href="skills.html" alt="Skills link">Skills</a>
         </nav>
      
-
+        <a href="#content" class="skip" tabindex="1">Skip to Content</a><br>
     <div class = "s1">
         
         <div class="p1">
