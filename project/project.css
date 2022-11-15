@@ -1,0 +1,13 @@
+body {font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2em;
+    background-color: beige;
+}
+
+nav {
+    background-color: #aabbcc;
+    padding: 10px;
+    margin-bottom: 10px;
+    display:block;
+}
+nav a {color: #F2F2F2}
+nav a:hover {background-color: #771f}
