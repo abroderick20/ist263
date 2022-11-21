@@ -26,7 +26,7 @@ nav a:hover {background-color: #771f}
     align-items: center;
     flex:2;
     margin: 30px;
-    width: 200px;
+    width: 20%;
    }
 
 h1, h2 {
@@ -40,6 +40,9 @@ h1, h2 {
         justify-content: center;
 }
 
-.footernav {
+.footernav, .footernav2 {
     display: inline;
+    margin: 50px;
 }
+
+
