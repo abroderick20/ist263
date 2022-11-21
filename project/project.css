@@ -56,4 +56,10 @@ h1, h2 {
     body {
         flex: none;
     }
+
+    .footernav, .footernav2 {
+        width: 100%;
+        display: block;
+        padding: 5px;
+    }
 }
