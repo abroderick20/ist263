@@ -16,14 +16,14 @@ nav a {color: #ffffff}
 nav a:hover {background-color: #771f}
 
 .description {
-    flex:1;
+    flex:2;
     margin: 30px;
 }
 .content {
     justify-content: center;
     display: inline;
     align-items: center;
-    flex:2;
+    flex:1;
     margin: 30px;
     width: 30%;
    }
