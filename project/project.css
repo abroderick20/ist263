@@ -13,7 +13,7 @@ nav {
     
 }
 nav a {color: #102e16}
-nav a:hover {background-color: rgb(49, 111, 69)}
+nav a:hover {background-color: #771f}
 
 .description {
     flex:1;
