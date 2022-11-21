@@ -35,7 +35,7 @@ h1, h2 {
 
 .parentcontent {
         display:flex;
-        padding: 60px;
+        padding: 100px;
         justify-content: center;
 }
 
