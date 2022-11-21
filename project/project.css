@@ -9,14 +9,23 @@ nav {
     padding: 10px;
     margin-bottom: 10px;
     display:block;
+    
+    
 }
 nav a {color: #F2F2F2}
 nav a:hover {background-color: #771f}
 
+.description {
+    flex:1;
+    margin: 30px;
+    padding: 10px;
+}
 .content {
     justify-content: center;
     display: inline;
     align-items: center;
+    flex:2;
+    margin: 30px;
    }
 
 h1, h2 {
@@ -26,7 +35,7 @@ h1, h2 {
 
 .parentcontent {
         display:flex;
-        padding: 40px;
+        padding: 60px;
         justify-content: center;
 }
 
