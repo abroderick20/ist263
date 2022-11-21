@@ -44,4 +44,16 @@ h1, h2 {
     margin: 20px;
 }
 
-
+@media only screen and (max-width: 768px) {
+    nav a {
+        width: 100%;
+        display: block;
+        padding: 5px;
+    }
+    nav span {
+        display: none;
+    }
+    body {
+        flex: none;
+    }
+}
