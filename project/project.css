@@ -16,8 +16,8 @@ nav a {color: #ffffff}
 nav a:hover {background-color: #771f}
 
 .description {
-    flex:2;
-    margin: 30px;
+    float: right;
+    padding: 10px
 }
 .content {
     justify-content: center;
