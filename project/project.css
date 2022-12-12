@@ -46,8 +46,8 @@ h1, h2 {
 
 .parentcontent {
         display:flex;
-        padding: 30px;
         justify-content: center;
+        margin-bottom: 50px;
 }
 
 .footernav, .footernav2 {
