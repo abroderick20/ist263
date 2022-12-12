@@ -19,12 +19,13 @@ nav a:hover {background-color: #771f}
     float: right;
     padding: 10px
 }
-.content {
+.circle3 {
     justify-content: center;
     display: inline;
     align-items: center;
     flex:1;
-    margin: 30px;
+    margin: 50px;
+    padding-right: 30px;
 
    }
 
