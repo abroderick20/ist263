@@ -17,13 +17,13 @@ nav a:hover {background-color: #771f}
 
 .description {
     float: right;
-    padding: 10px;
-    margin-left: 100px;
+    margin-left: 50px;
+    margin-right: 100px;
 }
 .circle3 {
     justify-content: center;
     align-items: center;
-    margin-right: 100px;
+    margin-right: 50px;
     margin-left: 100px;
     margin-top: 30px;
 
