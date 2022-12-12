@@ -62,4 +62,16 @@ h1, h2 {
         display: block;
         padding: 5px;
     }
+    
+}
+
+.headers {
+    padding-left: 50px;
+    margin: auto;
+}
+
+.resumecontent {
+    display: flex;
+    padding-right: 50px;
+    margin: auto;
 }
