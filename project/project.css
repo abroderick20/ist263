@@ -83,6 +83,10 @@ h1, h2 {
 
 .resumecontent {
     display: flex;
-    padding-right: 50px;
+    padding: 30px;
     margin: auto;
+}
+
+.job {
+    
 }
