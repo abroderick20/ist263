@@ -133,7 +133,7 @@ h1, h2 {
         
     }
 
-    @media only screen and (max-width: 900px) {
+    @media only screen and (max-width: 1000px) {
 
     .parentcontent {
         flex-wrap: wrap;
@@ -146,6 +146,7 @@ h1, h2 {
         flex-wrap: wrap;
         display:block;
         justify-content: center;
+        text-align: left;
 
 
     }
