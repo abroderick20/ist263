@@ -91,14 +91,14 @@ h1, h2 {
     margin-right: 100px;
 }
 
-.workdescription {
+.workdescriptions {
     justify-content: center;
     text-align: center;
     margin-left: 100px;
     margin-right: 100px;
 }
 
-.workimage {
+.workimages {
     display: flex;
     justify-content: center;
 }
