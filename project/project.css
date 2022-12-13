@@ -129,11 +129,17 @@ h1, h2 {
         padding: 5px;
     }
 
+
+        
+    }
+
+    @media only screen and (max-width: 900px) {
+
     .parentcontent {
         flex-wrap: wrap;
         display:block;
         justify-content: center;
         text-align: center;
     }
-        
+
     }
