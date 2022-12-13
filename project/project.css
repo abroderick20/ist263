@@ -131,6 +131,7 @@ h1, h2 {
 
     .parentcontent {
         flex-wrap: wrap;
+        display:block;
     }
         
     }
