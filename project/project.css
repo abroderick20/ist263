@@ -121,7 +121,7 @@ h1, h2 {
     }
 
     .circle3, .description {
-        display: block;
+        display: inline;
     }
         
     }
