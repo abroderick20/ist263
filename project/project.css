@@ -52,10 +52,19 @@ h1, h2 {
         margin-bottom: 50px;
 }
 
-.footernav, .footernav2 {
+.footernav {
+    display: inline;
+    margin-right: 20px;
+    margin-left: 0px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.footernav2 {
     display: inline;
     margin: 20px;
 }
+
 
 
 .headers {
