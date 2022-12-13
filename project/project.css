@@ -29,6 +29,8 @@ nav a:hover {background-color: #771f}
 
    }
 
+
+
 /* .circle3 {
     justify-content: center;
     display: inline;
@@ -73,6 +75,10 @@ h1, h2 {
         display: block;
         padding: 5px;
     }
+
+.circle3, .description {
+    display: inline;
+}
     
 }
 
