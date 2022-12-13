@@ -118,7 +118,7 @@ h1, h2 {
     }
 
     .circle3, .description {
-        display: inline;
+        display: block;
     }
         
     }
