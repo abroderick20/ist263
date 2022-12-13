@@ -105,6 +105,7 @@ h1, h2 {
 
 
 
-.form {
+#form {
     justify-content: center;
+    background-color: #102e16;
 }
