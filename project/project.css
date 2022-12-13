@@ -90,3 +90,13 @@ h1, h2 {
     margin-left: 50px;
     margin-right: 100px;
 }
+
+.workdescription {
+    justify-content: center;
+    text-align: center;
+}
+
+.workimage {
+    display: flex;
+    justify-content: center;
+}
