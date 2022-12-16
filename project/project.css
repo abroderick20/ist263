@@ -254,6 +254,13 @@ h1, h2 {
         float: right;
         margin: auto;
     }
-
+    #form {
+        justify-content: center;
+        text-align: center;
+        background-color: #102e16;
+        color: #ffffff;
+     margin: auto
+    }
+    
 
     }
