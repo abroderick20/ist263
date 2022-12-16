@@ -159,4 +159,10 @@ h1, h2 {
         margin:auto;
     
     }
+
+    .description {
+        float: right;
+        margin: auto;
+    }
+
     }
