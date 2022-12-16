@@ -153,4 +153,10 @@ h1, h2 {
 
     }
 
+    .circle3 {
+        justify-content: center;
+        align-items: center;
+        margin:auto;
+    
+    }
     }
