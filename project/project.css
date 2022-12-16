@@ -108,6 +108,16 @@ h1, h2 {
 }
 
 
+.intern {
+    display:flex;
+    justify-content: center;
+}
+
+
+
+
+
+
 * {box-sizing:border-box}
 
 
@@ -213,7 +223,6 @@ h1, h2 {
         display: block;
         padding: 5px;
     }
-
 
         
     }
