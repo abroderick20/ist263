@@ -109,7 +109,6 @@ h1, h2 {
 
 
 .intern {
-    display:flex;
     justify-content: center;
 }
 
@@ -191,7 +190,7 @@ h1, h2 {
 }
 
 .active, .dot:hover {
-  background-color: #717171;
+  background-color: #102e16;
 }
 
 .fade {
