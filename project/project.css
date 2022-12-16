@@ -107,7 +107,9 @@ h1, h2 {
     padding-bottom: 50px;
 }
 
-
+.burbs {
+    display:flex;
+}
 
 
 @media only screen and (max-width: 768px) {
