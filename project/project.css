@@ -139,7 +139,6 @@ h1, h2 {
   width: auto;
   margin-top: -22px;
   padding: 16px;
-  background-color: #102e16;
   color: 102e16;
   font-weight: bold;
   font-size: 18px;
@@ -257,18 +256,5 @@ h1, h2 {
         margin: auto;
     }
 
-    .workdescriptions {
-        flex-wrap: wrap;
-        justify-content: center;
-        text-align: center;
-        margin-left: 100px;
-        margin-right: 100px;
-    }
-    
-    .workimages {
-        flex-wrap: wrap;
-        display: flex;
-        justify-content: center;
-    }
 
     }
