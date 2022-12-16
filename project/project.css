@@ -139,6 +139,7 @@ h1, h2 {
   width: auto;
   margin-top: -22px;
   padding: 16px;
+  background-color: #102e16;
   color: 102e16;
   font-weight: bold;
   font-size: 18px;
@@ -190,7 +191,7 @@ h1, h2 {
 }
 
 .active, .dot:hover {
-  background-color: #102e16;
+  background-color: #717171;
 }
 
 .fade {
